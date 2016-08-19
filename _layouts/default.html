@@ -7,9 +7,14 @@
 
     {% include sidebar.html %}
 
-    <div class="content container">
+    <div id="main-content" class="content container animate-in">
       {{ content }}
     </div>
 
   </body>
+  <script type="text/javascript">
+    window.addEventListener("beforeunload", function () {
+      document.getElementById("main-content").classList.add("animate-out");
+    });
+  </script>
 </html>
