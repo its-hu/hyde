@@ -11,6 +11,15 @@ description:      'tanácsadás a digitális üzletben'
 url:              https://its.hu
 baseurl:          /
 
+# Set permalink
+permalink: articles/:title
+paginate:         10
+
 author:
   name:           'its'
   url:            https://its.hu
+
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
