@@ -90,7 +90,13 @@ a.sidebar-nav-item {
   line-height: 2;
   display: inline-block;
   text-decoration: none;
-  padding: 0; margin: .5rem 1rem 0 0;
+  margin: .5rem .5rem;
+}
+
+@media (min-width: 48em) {
+  a.sidebar-nav-item {
+    margin: .5rem 1rem 0 0;
+  }
 }
 
 .sidebar-nav-item.active {
@@ -128,17 +134,15 @@ footer {
 
 @media (min-width: 48em) {
   .sidebar-sticky {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   3rem;
+    margin-top: 3rem;
   }
 
   footer {
+    position: absolute;
+    bottom: 1rem;
     display: block;
     font-size: .6rem;
     color: rgba(0,0,0,.5);
-    margin-top: 3rem;
   }
 }
 
@@ -173,7 +177,7 @@ a.ghost-btn:hover {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 42rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -202,5 +206,17 @@ a.ghost-btn:hover {
 }
 .its .content a,
 .its .related-posts li a:hover {
-  color: #e81c4f;
+  color: #D3132A;
+}
+
+
+/* Hero paragraph */
+.hero h1 {
+  font-size: 2.5rem;
+  margin: 1.5rem 0;
+}
+
+.hero {
+  margin: 0 0 3rem; padding: 0 0 2rem;
+  border-bottom: 1px dashed rgba(0,0,0,.6)
 }

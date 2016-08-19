@@ -43,7 +43,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: rgba(0,0,0,.8);
   background-color: #efefef;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -123,12 +123,12 @@ hr {
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #555;
+  color: rgba(0,0,0,.5);
   text-transform: uppercase;
 }
 abbr[title] {
   cursor: help;
-  border-bottom: 1px dotted #e5e5e5;
+  border-bottom: 1px dotted rgba(0,0,0,.5);
 }
 
 /* Code */
