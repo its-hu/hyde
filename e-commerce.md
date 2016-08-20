@@ -4,28 +4,19 @@ title: E-commerce
 order: 2
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Elengedhetetlenné vált márkaépítéshez online értékesítési csatornát kialakítani. A gyártó és vevő közötti távolság csökkenése rengeteg hasznot, és sok új problémát vethet fel.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<ul class="services">
+    <li>Fizetési megoldások</li>
+    <li>CLV / AOV optimalizálás</li>
+    <li>Performance marketing</li>
+    <li>Vásárlásösztönzés</li>
+    <li>Ügyfélelégedettség</li>
+    <li>Ügyfélszolgálat optimalizálás</li>
+    <li>Közösségépítés</li>
+    <li>Logisztikai integráció</li>
+</ul>
 
-There are currently two themes built on Poole:
+## Nemzetközi piacok
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+A mai gazdasági és logisztikai infrastruktúrák rendkívülien leegyszerűsítik a nemzetközi piacok elérését. Miért ne gondolkozna terjeszkedésen több piacon, akár Európán túl is? Csapatunk tapasztalt tagjai nemzetközi sikereket értek el, több millió dolláros árbevételt generálva online kereskedelemben.

@@ -1,31 +1,23 @@
 ---
 layout: page
-title: Termék Management
+title: Termék Menedzsment
 order: 1
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+A fejlesztések sikere nem csak a hozzáértő fejlesztői kivitelezésen múlik. Az egyre komplexebb igények fényében egyre fontosabb, hogy szakértők gondoskodjanak a projekttel a kezdetektől. Vajon kell egy bizonyos funkcióra a kezdetektől, vagy ütemezhető későbbre is? Külön, vagy együtt készüljön el a webes és a mobil áruház? A válaszok nem mindig egyértelműek, de segítünk a komplexitás értelmezésében.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+<ul class="services">
+    <li>Projekt menedzsment</li>
+    <li>Piackutatás</li>
+    <li>Felhasználói élmény tervezés (UX)</li>
+    <li>Minőségbiztosítás (QA)</li>
+    <li>Technikai átvilágítás</li>
+    <li>Tesztelés</li>
+    <li>Biztonsági felmérés</li>
+</ul>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Globális gondolkodás
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Az egyre kisebb világunkban egyre többet kell figyelni arra, hogy különböző demográfiákat megfelelően szólítsunk meg. Nemzetközi csapatunk észak-amerikai, európai, és ázsiai felhasználói igények megértésében is segítő kezet nyúthat.
