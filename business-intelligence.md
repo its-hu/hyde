@@ -29,3 +29,12 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
+
+
+<ul class="services">
+    <li>Automatizálás</li>
+    <li>A/B Teszt</li>
+    <li>Adatbányászat</li>
+    <li>Adatkinyerés / ETL</li>
+    <li>Vizualizáció</li>
+</ul>

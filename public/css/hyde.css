@@ -134,7 +134,7 @@ footer {
 
 @media (min-width: 48em) {
   .sidebar-sticky {
-    margin-top: 3rem;
+    display: none;
   }
 
   footer {
@@ -243,4 +243,48 @@ a.ghost-btn:hover {
 .hero {
   margin: 0 0 3rem; padding: 0 0 2rem;
   border-bottom: 1px dashed rgba(0,0,0,.6)
+}
+
+/* Service lists */
+ul.services {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+}
+
+ul.services li {
+  display: inline-block;
+  background: rgba(208,2,27,.8);
+  color: #fff;
+  padding: .3rem .5rem;
+  margin: .125rem 0;
+  border-radius: .1rem;
+}
+
+/* Contact pane */
+
+.contact-inline {
+  display: flex;
+  flex-flow: row wrap;
+  background: #fff;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-radius: .2rem;
+  margin-top: 3rem;
+}
+
+.contact-inline h4 {
+  margin: 0;
+  flex: 1 30;
+}
+
+.contact-inline .buttons {
+  display: block;
+  justify-content: space-around;
+}
+
+.contact-inline a {
+  font-size: 1rem;
+  padding: .5rem 1rem;
 }
