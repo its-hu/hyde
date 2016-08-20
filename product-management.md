@@ -20,4 +20,4 @@ A fejlesztések sikere nem csak a hozzáértő fejlesztői kivitelezésen múlik
 
 ## Globális gondolkodás
 
-Az egyre kisebb világunkban egyre többet kell figyelni arra, hogy különböző demográfiákat megfelelően szólítsunk meg. Nemzetközi csapatunk észak-amerikai, európai, és ázsiai felhasználói igények megértésében is segítő kezet nyúthat.
+Az egyre kisebb világunkban egyre többet kell figyelni arra, hogy különböző demográfiákat megfelelően szólítsunk meg. Nemzetközi csapatunk észak-amerikai, európai, és ázsiai felhasználói igények megértésében is segítő kezet nyújthat.
